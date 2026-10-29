@@ -1,0 +1,20 @@
+# Chaves e variáveis de ambiente
+.env
+
+# Maven / Build
+**/target/
+!.mvn/wrapper/maven-wrapper.jar
+**/.mvn/
+.mvn
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
